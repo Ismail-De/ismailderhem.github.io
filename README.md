@@ -47,11 +47,6 @@ I am a **Data Engineer** with a background from **Centrale Casablanca**. I speci
 
 ---
 
-## 🏆 GitHub Trophies
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail-de)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📜 Certifications
 - **AWS Cloud Practitioner Essentials**
 - **Meta Data Engineer Professional Certificate**
