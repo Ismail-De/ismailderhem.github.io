@@ -48,9 +48,8 @@ I am a **Data Engineer** with a background from **Centrale Casablanca**. I speci
 ---
 
 ## 🏆 GitHub Trophies
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ismail-De&theme=radical&no-frame=true&column=4" alt="github-trophy" /></a>
-</p>
+&nbsp;
+[![] (https://github-profile-trophy.vercel.app/?username=Ismail-De&theme=onestar&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
